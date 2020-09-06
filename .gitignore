@@ -1,0 +1,27 @@
+ __pycache__/
+CMakeCache.txt
+**/config.xscope
+**/config.xscope/*
+**/bin/
+**/bin/*
+**/.build/
+**/.build/*
+**/.build_test/
+**/.build_test/*
+**/.metadata/
+**/.metadata/*
+**/.settings/
+**/.settings/*
+*.zip
+*.pdf
+*.xe
+*.tmp
+*.temp
+*.usr
+*.user
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.dll
+*.so
